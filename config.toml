@@ -1,0 +1,37 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "BARGHEST"
+
+[menu]
+  [[menu.main]]
+    name = "Projects"
+    identifier = "fork"
+    weight = 3
+    url = "https://github.com/BARGHEST-ngo"
+    pre = "github"
+
+  [[menu.main]]
+    name = "About"
+    identifier = "about"
+    pageRef = "/about"
+    weight = 1
+
+    [[menu.main]]
+      name = "Our Team"
+      identifier = "about.team"
+      pageRef = "/about/team"
+      parent = "about"
+      weight = 1
+
+    [[menu.main]]
+      name = "SecurityMatters"
+      identifier = "about.securitymatters"
+      pageRef = "/about/securitymatters"
+      parent = "about"
+      weight = 2
+
+  [[menu.main]]
+    name = "Works"
+    identifier = "works"
+    pageRef = "/works"
+    weight = 2 

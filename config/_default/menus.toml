@@ -1,0 +1,157 @@
+[[main]]
+  name       = 'Projects'
+  identifier = 'fork'
+  weight     = 3
+  url        = 'https://github.com/BARGHEST-ngo'
+  pre        = 'github'
+
+[[main]]
+  name       = 'About'
+  identifier = 'about'
+  pageRef    = '/about'
+  weight     = 1
+
+  [[main]]
+    name       = 'Our Team'
+    identifier = 'about.team'
+    pageRef    = '/about/team'
+    parent     = 'about'
+    weight     = 1
+
+  [[main]]
+    name       = 'SecurityMatters'
+    identifier = 'about.securitymatters'
+    pageRef    = '/about/securitymatters'
+    parent     = 'about'
+    weight     = 2
+
+  [[main]]
+    name       = 'Our Manifesto'
+    identifier = 'about.manifesto'
+    pageRef    = '/about/manifesto'
+    parent     = 'about'
+    weight     = 3
+
+  [[main]]
+    name       = 'Annual Reports'
+    identifier = 'about.reports'
+    pageRef    = '/about/reports'
+    parent     = 'about'
+    weight     = 4
+
+  [[main]]
+    name       = 'Funding'
+    identifier = 'about.funding'
+    pageRef    = '/about/funding'
+    parent     = 'about'
+    weight     = 5
+    
+
+[[main]]
+  name       = 'Works'
+  identifier = 'works'
+  pageRef    = '/works'
+  weight     = 2
+
+  [[main]]
+    name       = 'Publications'
+    identifier = 'works.publications'
+    pageRef    = '/works/publications'
+    parent     = 'works'
+    weight     = 1
+
+  [[main]]
+    name       = 'Research'
+    identifier = 'works.research'
+    pageRef    = '/works/research'
+    parent     = 'works'
+    weight     = 2
+
+  [[main]]
+    name       = 'Open-Source Tools'
+    identifier = 'works.tools'
+    pageRef    = '/works/tools'
+    parent     = 'works'
+    weight     = 3
+
+    [[main]]
+      name       = 'MVT-Mesh'
+      identifier = 'works.tools.mvt-mesh'
+      pageRef    = '/works/tools/mvt-mesh'
+      parent     = 'works.tools'
+      weight     = 1
+
+[[more]]
+  name       = 'Resources'
+  identifier = 'resources'
+  pageRef    = '/'
+  weight     = 3
+
+
+[[author-name]]
+  name       = ''
+  identifier = '@user-name'
+  pageRef    = '/'
+  weight     = 1
+  pre        = 'bluesky'
+
+[[author-name]]
+  identifier = 'discord'
+  pageRef    = '/'
+  weight     = 2
+  pre        = 'discord'
+
+[[author-name]]
+  name       = ''
+  identifier = 'mastodon'
+  pageRef    = '/'
+  weight     = 3
+  pre        = 'mastodon'
+
+[[more]]
+  name       = 'More Menu'
+  identifier = 'more.menu'
+  pageRef    = '/'
+  weight     = 99
+
+  
+[[footer]]
+  identifier = 'figma'
+  pageRef    = '/'
+  weight     = 1
+  name       = 'figma'
+  pre        = 'figma'
+
+[[footer]]
+  identifier = 'hashnode'
+  pageRef    = '/'
+  weight     = 2
+  name       = 'hashnode'
+  pre        = 'hashnode'
+
+[[footer]]
+  identifier = 'email'
+  pageRef    = '/'
+  weight     = 3
+  name       = 'email'
+  pre        = 'email'
+
+[[footer]]
+  identifier = 'linkedin'
+  pageRef    = '/'
+  weight     = 4
+  name       = 'linkedin'
+  pre        = 'linkedin'
+
+[[footer]]
+  identifier = 'karyakarsa'
+  pageRef    = '/'
+  weight     = 5
+  name       = 'karya karsa'
+  pre        = 'karyakarsa'
+
+[[contrib]]
+  identifier = 'githubsponsors'
+  url        = 'https://github.com/sponsors/foxihd/'
+  name       = 'Become Github Sponsors'
+  pre        = 'githubsponsors'
