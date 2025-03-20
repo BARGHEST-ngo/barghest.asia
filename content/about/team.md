@@ -13,7 +13,7 @@ Ovi (O-vee), a technologist, hacktivist, and security researcher. His work is en
 
 He focuses primarily on vulnerability research, mobile security, and reverse engineering. His areas of investigation include advanced persistent threats, authoritarian government surveillance, privacy violations, and corporate greed. Through his work, he aims to expose corporate injustices, governmental abuses against citizens, and advocate for decentralization.
 
-### Kaia - Technologist
+### Kaia - Digital Protection Practitioner
 
 Kaia is a versatile activist with experience spanning human rights, digital security, environmental policy, and government transparency in the Asia-Pacific region. She previously served as Digital Protection Coordinator for Front Line Defenders in Asia, where she built digital security capacity for human rights organizations, conducted security audits, provided emergency incident response, and developed risk reduction policies.
 
