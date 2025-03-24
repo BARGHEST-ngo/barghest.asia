@@ -9,7 +9,7 @@ translationKey: "about.team"
 ---
 ### Ovi - Technologist
 
-Ovi (O-vee), a technologist, hacktivist, and security researcher. His work is entirely self-directed and fueled by a commitment to transparency and user protection.
+Ovi (O-vee), a technologist, hacktivist, and security researcher. His work fueled by a commitment of transparency and protection.
 
 He focuses primarily on vulnerability research, mobile security, and reverse engineering. His areas of investigation include advanced persistent threats, authoritarian government surveillance, privacy violations, and corporate greed. Through his work, he aims to expose corporate injustices, governmental abuses against citizens, and advocate for decentralization.
 
