@@ -1,9 +1,9 @@
 ---
 title: "BARGHEST_WARD for Android"
-date: 2024-03-19
+date: 2024-03-27
 description: "Introducing WARD for Android a heuristic detection system for volitile Android memory & log data"
 draft: false
-author: "admin"
+author: "Umbra"
 type: "post"
 tags: ["security", "forensics", "mobile", "MVT", "WARD",  "spyware", "civil-society"]
 categories: ["research", "forensics-tools", "publications"]
