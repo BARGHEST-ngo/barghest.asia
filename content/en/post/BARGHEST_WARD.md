@@ -12,8 +12,10 @@ alt: "Mobile device forensic analysis setup with various tools and equipment."
 translationKey: "mvt-mesh"
 ---
 
-## What is Mesh?
+## What is WARD?
 
+BARGHEST__WARD
+_WARD is a modular, open-source CLI tool for behavioral spyware detection using Android ADB forensic data. Built for integration with tools like MVT and our remote aquision tool BARGHEST_MESH.
 -~-~-~TBD~-~-~-~
 -~-~-~TbD~-~-~-~
 -~-~-~TBd~-~-~-~
