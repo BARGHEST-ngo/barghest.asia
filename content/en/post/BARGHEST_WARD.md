@@ -7,7 +7,7 @@ author: "Umbra"
 type: "post"
 tags: ["security", "forensics", "mobile", "MVT", "WARD",  "spyware", "civil-society"]
 categories: ["research", "forensics-tools", "publications"]
-cover: "https://www.0x0v1.com/content/images/size/w1000/2025/03/7_transparent.png"
+cover: "https://www.0x0v1.com/content/images/size/w1000/2025/03/ChatGPT-Image-Mar-27--2025--02_47_49-PM.png"
 alt: "Mobile device forensic analysis setup with various tools and equipment."
 translationKey: "mvt-mesh"
 ---
