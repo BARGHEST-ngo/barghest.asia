@@ -3,7 +3,7 @@ title: "BARGHEST_Mesh: A mesh VPN for remote mobile forensics"
 date: 2024-03-19
 description: "Introducing Mesh, a secure and scalable solution for remote mobile forensic analysis that empowers civil society researchers to investigate spyware and malicious implants."
 draft: false
-author: "Ovi"
+author: "admin"
 type: "post"
 tags: ["security", "forensics", "mobile", "MVT", "spyware", "civil-society"]
 categories: ["research", "forensics-tools", "publications"]
