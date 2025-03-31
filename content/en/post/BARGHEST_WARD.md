@@ -5,6 +5,7 @@ description: "Introducing WARD for Android a heuristic detection system for voli
 draft: false
 author: "Umbra"
 type: "post"
+coffee: 1
 tags: ["security", "forensics", "mobile", "MVT", "WARD",  "spyware", "civil-society"]
 categories: ["research", "forensics-tools", "publications"]
 cover: "https://www.0x0v1.com/content/images/size/w1000/2025/03/ChatGPT-Image-Mar-27--2025--02_47_49-PM.png"
