@@ -14,4 +14,4 @@ Human rights reserved.
 <br>
 <strong class="section-title">Democratize. Mobalize. Unify.</strong>
 
-Democratizing threat intelligence.
+Democratizing threat intelligence & foresnics for civil society.
