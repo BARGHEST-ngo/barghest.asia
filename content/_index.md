@@ -10,7 +10,7 @@ Spyware research in the civil society space is currently dominated by a select g
 
 We focus on addressing gaps in spyware research, such as our ability to identify threats on Android devices, which   represent 72.04% of the global mobile market share and dominate mobile usage in regions such as Asia, Latin America, and Africa. 
 
-Through our work, we aim to decolonize and democratize threat research. Our aims are to build open-source, community-driven solutions that break the current monopoly on spyware research and empower decentralized civic groups to conduct independent investigations. All of our tools are developed in-house by our team, ensuring full technological provenance, sovereignty and transparency——nothing is outsourced to third-party developers or proprietary vendors.
+Through our work, we aim to decolonize and democratize threat research. Our aims are to build open-source, community-driven solutions that break the current monopoly on spyware research and empower decentralized civic groups to conduct independent investigations. All of our tools are developed in-house by our team, ensuring full technological provenance, sovereignty and transparency——nothing is outsourced to third-party orgs or proprietary vendors.
 
 Our work is not just about technology—it’s about accessibility. By lowering the barriers to forensic investigation, we ensure no journalist, activist, or human-rights defender is left without the technical support they need to protect themselves.
 
