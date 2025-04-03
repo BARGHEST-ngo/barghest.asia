@@ -4,14 +4,18 @@ cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/fl
 
 ## ABOUT
 
-We are a team made up of technologists, threat researchers, developers, incident and helpline responders working to defend human rights defenders. We primarily work within East & South East Asia regions. 
+We are a grassroots collective of technologists, threat researchers, developers, and incident responders working at the intersection of technology and human rights. Our mission is to defend and support human rights defenders, with a primary focus on East and Southeast Asia.
 
-Spyware research in the civil society space is currently dominated by a select group of experts with access to closed-source tools and methodologies, creating high barriers to entry for new researchers and responders. This negatively impacts civil societies ability to identify, respond and mitigate spyware globally by enforced bottlenecks. 
+Spyware research in the civil society space is currently dominated by a handful of organizations with privileged access to information, closed-source tools, and methodologies. This creates high barriers to entry for local research labs, researchers, and responders, reinforcing an unhealthy dependency on big tech. These structural bottlenecks limit civil society’s ability to detect, investigate, and mitigate spyware threats at scale.
 
-We focus on addressing gaps in spyware research, such as our ability to identify threats on Android devices, which   represent 72.04% of the global mobile market share and dominate mobile usage in regions such as Asia, Latin America, and Africa. 
+We exist to challenge that.
 
-Through our work, we aim to decolonize and democratize threat research. Our aims are to build open-source, community-driven solutions that break the current monopoly on spyware research and empower decentralized civic groups to conduct independent investigations. All of our tools are developed in-house by our team, ensuring full technological provenance, sovereignty and transparency——nothing is outsourced to third-party orgs or proprietary vendors.
+Our work addresses critical gaps in spyware research, with the goal of enabling localized, decentralized, and public-interest threat labs to emerge around the world. For example, we specialize in threat research capabilities on Android devices—which account for over 72% of the global mobile market and are the primary platforms used in Asia, Latin America, and Africa.
 
-Our work is not just about technology—it’s about accessibility. By lowering the barriers to forensic investigation, we ensure no journalist, activist, or human-rights defender is left without the technical support they need to protect themselves.
+By building open-source, community-driven tools and methodologies, we aim to decolonize and democratize threat research. We want to see independent, civic-led, public-interest investigations thrive—free from centralized control.
 
-We work closely with our sister organization SecurityMatters, and collaborate with partners such as CDR & OTF. 
+All of our tools are developed in-house, ensuring full technological provenance, sovereignty, transparency, and trust. Nothing is outsourced; nothing is proprietary.
+
+Our work isn’t just about tech—it’s about accessibility. By lowering the barriers to digital forensics and investigation, we ensure that no journalist, activist, or human rights defender is left without the support they need to stay safe.
+
+We work closely with our sister organization, SecurityMatters, and collaborate with partners such as CDR and the Open Technology Fund (OTF).
