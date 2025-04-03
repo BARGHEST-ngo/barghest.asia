@@ -1,7 +1,7 @@
 ---
 type: 'footer'
 weight: 1
-coffee: 4
+coffee: 7
 params:
     headless: true
     target: 'https://github.com/foxihd/hugo-brewm'
