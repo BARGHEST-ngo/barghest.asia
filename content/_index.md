@@ -18,4 +18,4 @@ All of our tools are built in-house, ensuring full technological sovereignty, tr
 
 But our work goes beyond technology. It’s about accessibility. By lowering the barriers to digital forensics and investigation, we ensure that no journalist, activist, or human rights defender is left behind—especially in the Global South.
 
-We collaborate closely with our sister organization, SecurityMatters, and work in partnership with groups such as the Open Culture Foundation, Centre for Digital Resilience, 0xchre, and the Open Technology Fund (OTF).
+We collaborate closely with our sister organization, SecurityMatters, and work in partnership with groups such as the Open Culture Foundation, Centre for Digital Resilience, and the Open Technology Fund (OTF).
