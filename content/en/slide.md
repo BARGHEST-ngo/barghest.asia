@@ -8,4 +8,4 @@ params:
     target: 'https://github.com/foxihd/hugo-brewm'
 ---
 
-Democratizing threat intelligence & forensics for civil society.
+Democratizing security research, threat intelligence & forensics for civil society.
