@@ -8,4 +8,5 @@ params:
     target: 'https://github.com/foxihd/hugo-brewm'
 ---
 
-Democratizing security research, threat intelligence & forensics for civil society.
+Democratizing threat intelligence.
+威脅情報民主化.
