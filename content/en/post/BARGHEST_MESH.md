@@ -5,7 +5,7 @@ description: "_MESH, a secure and scalable solution for remote mobile forensic a
 draft: false
 author: "Umbra"
 type: "post"
-tags: ["security", "forensics", "mobile", "MVT", "spyware", "civil-society"]
+tags: ["security", "forensics", "mobile", "MVT", "spyware", "civil-society", "mesh"]
 categories: ["research", "forensics-tools", "publications"]
 cover: "https://www.0x0v1.com/content/images/size/w1000/2025/03/7_transparent.png"
 alt: ""
