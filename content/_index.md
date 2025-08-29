@@ -4,9 +4,9 @@ cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/fl
 
 ## ABOUT
 
-We are a grassroots security research team. A collective of hacktivists, security researchers, technologists, and incident responders working at the intersection of technology and human rights. 
-
 我們是由一個在科技與人權交叉點上工作的駭客活動加、安全研究員、技術員、數位安全從業人員和事件回應者所組成的草根安全研究團隊。
+
+We are a grassroots security research team. A collective of hacktivists, security researchers, technologists, and incident responders working at the intersection of technology and human rights. 
 
 Our mission is to defend and support human rights defenders—particularly in East and Southeast Asia.
 
