@@ -5,7 +5,7 @@ draft: true
 type: "page"
 layout: "team"
 coffee: 1
-translationKey: "works.tools.mvt-mesh"
+translationKey: "works.tools.mesh"
 ---
 
 
